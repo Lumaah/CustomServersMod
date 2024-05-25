@@ -4,13 +4,12 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
-using FunPlusEssentials.CustomContent;
-using FunPlusEssentials.Other;
+using LCM.Other;
 using MelonLoader;
 using UnhollowerBaseLib;
 using UnityEngine;
 
-namespace FunPlusEssentials
+namespace LCM
 {
     class FunRPC : Attribute
     {
